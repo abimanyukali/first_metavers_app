@@ -22,7 +22,7 @@ function Header() {
         </div>
 
         <div className="col-span-4 text-left lg:text-center" >
-          <div className="relative h-48 w-48 lg:mx-auto border-Bink-500 rounded-full">
+          <div className="relative h-48 w-48 lg:mx-auto border-pink-500 border-8 rounded-full">
             <Avatar logoutOnPress />
           </div>
 
