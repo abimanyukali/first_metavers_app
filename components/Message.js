@@ -11,7 +11,7 @@ const Message = ({ message }) => {
       }`}
     >
       <div
-        className={`relative h-10 w-10 ${isUserMessage && "order-last ml-2"}`}
+        className={`relative h-10 w-10 ${isUserMessage && "order-last ml-2 "}`}
       >
         <Avatar username={message.get("username")} />
       </div>
